@@ -1,0 +1,3 @@
+1. A secret message sharing app that involved some level of DOM manipulations in it
+2. In this project, I demonstrated some hash values of the window.location of a bnrowser.
+3. easy encryption type of ascii to base64 was used in this project.
